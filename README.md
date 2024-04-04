@@ -9,8 +9,7 @@ Este projeto é uma aplicação web desenvolvida em Java para gerenciar uma list
 - Banco de Dados: MySQL
 - Ambiente de Desenvolvimento: Eclipse IDE
 - Servidor Web: Apache Tomcat
-- Gerenciamento de Dependências: Maven
-
+  
 ## Estrutura do Projeto
 O projeto segue o padrão MVC (Model-View-Controller), com os seguintes pacotes principais:
 - `controller`: Servlets para gerenciar requisições HTTP.
